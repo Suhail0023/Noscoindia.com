@@ -46,12 +46,13 @@ nav ul li a {
 
 .hero {
   background: url('hero-bg.jpg') center/cover no-repeat;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay to enhance text visibility */
   color: #fff;
   padding: 100px 0;
   text-align: center;
-  background-blend-mode: overlay;
-  background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for contrast */
 }
+
 
 .about, .services, .contact {
   padding: 60px 0;
