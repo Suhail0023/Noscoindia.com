@@ -47,7 +47,7 @@ nav ul li a {
 }
 
 .hero {
-  background: url('hero-bg.jpg') center/cover no-repeat;
+  background: url('hero-bg.jpg.jpg') center/cover no-repeat;
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
